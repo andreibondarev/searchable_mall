@@ -30,6 +30,7 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', fun
 		});
 
 		$scope.results = results;
+		$scope.results_count = $scope.results.length
 	});
 
 }]);
