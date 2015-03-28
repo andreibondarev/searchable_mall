@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 2128 1363" enable-background="new 0 0 2128 1363" xml:space="preserve">
-<g id="Layer_1" display="none">
-	
-		<image display="inline" overflow="visible" opacity="0.5" width="2128" height="1363" xlink:href="data:image/gif;base64,R0lGODlhUAhTBeYAAOPUHWlpaSqbnulMOExNTdPT1enikexlVPj3+KmrysPExJfV7YMUPiwvMIdg
+	 viewBox="0 0 955.3 686.7" enable-background="new 0 0 955.3 686.7" xml:space="preserve">
+<g id="Layer_1">
+
+		<image overflow="visible" opacity="0.5" width="2128" height="1363" xlink:href="data:image/gif;base64,R0lGODlhUAhTBeYAAOPUHWlpaSqbnulMOExNTdPT1enikexlVPj3+KmrysPExJfV7YMUPiwvMIdg
 q7zDxvrPyaSZGeXm57u8vaKkpY7JzIODgwoNDXd6fJycnKFPanhokI2ptF9YDsjk5fHkUWG1uY0s
 UNzd3tvX6EWoq8Kx0jRKUve6sngIMqTo/4B3E7Ha3d+OhJna8tKrupWdofKUiH2wwcW4Hs/R0qKd
 SKeOwUxseLJshPr1vcaUpvB+cIuUmOjc5fzl4tTV18rLzOf09Jt8uWybqn9YpZ3h+fWnnbK2uFmF
@@ -3101,129 +3101,247 @@ szzbsz77s0AbtEI7tERbtEZ7tEibtEq7tEzbtE77tFAbtVI7tVRbtVZ7tVibtVq7tVzbtV77tWAb
 tmI7tmRbtmZ7tmibtmq7tmzbtm77tnAbt3I7t3Rbt3Z7t3ibt3q7t3zbt377t4AbuII7uIRbuIZ7
 uIibuIq7uIzbuI77uJAbuZI7uZRbuZZ7uZibuZq7uZzbuZ77uaAbuqI7uqRbuqZ7uqibuqq7uqzb
 uq77urAbu7I7u7Rbu7Z7u7ibu7q7u7zbu777u8AbvMI7vMRbvMZ7vMibvMq7vMzbvM77vNAbvdI7
-vdRbvdZ7vdibvdq7vdzbJ73e+73gG77iO77kW77me77om77qu77s277u+77wG7/yO7/0S72BAAA7">
+vdRbvdZ7vdibvdq7vdzbJ73e+73gG77iO77kW77me77om77qu77s277u+77wG7/yO7/0S72BAAA7" transform="matrix(1 0 0 1 955.2578 0)">
 	</image>
 </g>
-<g id="Layer_2">
+<g id="Outline">
+	<rect x="0" y="0" fill="#414042" width="955.3" height="686.7"/>
 	<g>
-		<path d="M349,78.3v56l31.3,29.3V179h4.7l72.7,72.7v4H527v-6h32V235h29.3v5.3h7.3v9.5h35.7l3.7-5.5h82.7V227h30.7v4.7l7.3-2
-			l-66,244.7H466.3v-22.7H403V439h3.3v-4h12v-9.3H413v-16h-8.7v20.7H393V409h4v-6h-17.3v6h4v22.7h-10v6.7h10v22h6.7v14H195V449h23.3
-			v-27.3H215V78.3H349 M351,76.3h-2H215h-2v2v343.3v2h2h1.3V447H195h-2v2v25.3v2h2h195.3h2v-2v-14v-2h-2h-4.7v-20v-2h-2h-8v-2.7h8h2
-			v-2V409v-2h-2h-2v-2H395v2h-2h-2v2v21.3v2h2h11.3h2v-2v-18.7h4.7v14v2h2h3.3v5.3h-10h-2v2v2H403h-2v2v12.7v2h2h61.3v20.7v2h2
-			h223.3h1.5l0.4-1.5l66-244.7l0.9-3.4l-3.4,0.9l-4.8,1.3v-2v-2h-2h-30.7h-2v2v15.3H635h-1.1l-0.6,0.9l-3.1,4.6h-32.6v-7.5v-2h-2
-			h-5.3V235v-2h-2H559h-2v2v12.7h-30h-2v2v4h-65.3v-2v-0.8l-0.6-0.6l-72.7-72.7l-0.6-0.6H385h-2.7v-13.3v-0.9l-0.6-0.6L351,133.5
-			V78.3V76.3L351,76.3z"/>
+		<path fill="#FFFFFF" d="M359.4,113.8v56.4l31.3,29.3v15.3h4.7l72.7,72.7v4h69.3v-6h32v-14.7h29.3v5.3h7.3v9.5h35.7l3.4-5.7h82.7
+			l0.2-17.1h30.7v4.7l7.3-2l-66,245.1H476.7v-23.1h-63.3v-12.7h3.3v-4h12v-9.3h-5.3v-16h-8.7v20.7h-11.3v-21.3h4v-6h-17.3v6h4v22.7
+			h-10v6.7h10v22h6.7v14.6H205.4v-25.9h23.3v-27.3h-3.3V113.8H359.4 M361.4,111.8h-2h-134h-2v2v343.8v2h2h1.3v23.3h-21.3h-2v2v25.9
+			v2h2h195.3h2v-2v-14.6v-2h-2h-4.7v-20v-2h-2h-8v-2.7h8h2v-2v-22.7v-2h-2h-2v-2h13.3v2h-2h-2v2v21.3v2h2h11.3h2v-2v-18.7h4.7v14v2
+			h2h3.3v5.3h-10h-2v2v2h-1.3h-2v2v12.7v2h2h61.3v21.1v2h2h223.3h1.5l0.4-1.5l66-245.1l0.9-3.4l-3.4,0.9l-4.8,1.3v-2v-2h-2h-30.7h-2
+			l0,2l-0.2,15.1h-80.7H644l-0.6,1l-2.8,4.8h-32.5v-7.5v-2h-2h-5.3v-3.3v-2h-2h-29.3h-2v2v12.7h-30h-2v2v4h-65.3v-2v-0.8l-0.6-0.6
+			l-72.7-72.7l-0.6-0.6h-0.8h-2.7v-13.3v-0.9l-0.6-0.6l-30.7-28.7v-55.5V111.8L361.4,111.8z"/>
 	</g>
-	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M482,255.8"/>
+	<path fill="none" stroke="#939598" stroke-width="2" stroke-miterlimit="10" d="M492.4,291.6"/>
 	<g>
-		<path d="M319,187.7c20.2,130.2,139.5,132.8,149.1,132.8c0.4,0,0.6,0,0.6,0v45.2H367v-11h-18v4.7h9v6.3h-49V343h-2.7v-2h-2.8v2
-			h-17.2v-49.4h5v8.7h5v-20.4h-10v-94.2H319 M320.7,185.7H319h-32.7h-2v2v94.2v2h2h8v16.4h-1v-6.7v-2h-2h-5h-2v2V343v2h2h17.2h2h0.8
-			h0.7v20.7v2h2h49h2v-2v-6.3v-2h-2h-7v-0.7h14v9v2h2h101.7h2v-2v-45.2v-2l-2,0c0,0-0.2,0-0.6,0c-3.6,0-36.2-0.5-69.6-17.4
-			c-19-9.6-34.9-22.7-47.4-39c-15.4-20.1-25.5-45.3-30.1-74.8L320.7,185.7L320.7,185.7z"/>
+		<path fill="#FFFFFF" d="M329.4,223.6c20.2,130.2,139.5,132.8,149.1,132.8c0.4,0,0.6,0,0.6,0v45.2H377.4v-11h-18v4.7h9v6.3h-49
+			v-22.7h-2.7v-2h-2.8v2h-17.2v-49.4h5v8.7h5v-20.4h-10v-94.2H329.4 M331.1,221.6h-1.7h-32.7h-2v2v94.2v2h2h8v16.4h-1v-6.7v-2h-2h-5
+			h-2v2v49.4v2h2h17.2h2h0.8h0.7v20.7v2h2h49h2v-2v-6.3v-2h-2h-7v-0.7h14v9v2h2h101.7h2v-2v-45.2v-2l-2,0c0,0-0.2,0-0.6,0
+			c-3.6,0-36.2-0.5-69.6-17.4c-19-9.6-34.9-22.7-47.4-39c-15.4-20.1-25.5-45.3-30.1-74.8L331.1,221.6L331.1,221.6z"/>
 	</g>
 </g>
 <g id="Store_31">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="303.5,474.3 303.5,435.7 337.3,435.7 373.7,435.7 
-		373.7,438.3 383.7,438.3 383.7,460.3 390.3,460.3 390.3,474.3 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="313.9,510.2 313.9,471.6 347.7,471.6 384.1,471.6
+		384.1,474.2 394.1,474.2 394.1,496.2 400.7,496.2 400.7,510.2 	"/>
 </g>
 <g id="Store_30">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="308,380 308,385.5 303.5,385.5 303.5,435.7 337.3,435.7 
-		337.3,380 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="318.4,415.9 318.4,421.4 313.9,421.4 313.9,471.6
+		347.7,471.6 347.7,415.9 	"/>
 </g>
 <g id="Store_29">
-	<rect x="337.3" y="380" fill="none" stroke="#000000" stroke-miterlimit="10" width="18.3" height="55.7"/>
+	<rect x="347.7" y="415.9" fill="none" stroke="#939598" stroke-miterlimit="10" width="18.3" height="55.7"/>
 </g>
 <g id="Store_28">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="357.3,380 419,380 419,425.7 413,425.7 413,409.7 
-		404.3,409.7 404.3,430.3 393,430.3 393,409 397,409 397,403 379.7,403 379.7,409 383.7,409 383.7,431.7 373.7,431.7 373.7,435.7 
-		355.7,435.7 355.7,380 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="367.7,415.9 429.4,415.9 429.4,461.6 423.4,461.6
+		423.4,445.6 414.7,445.6 414.7,466.2 403.4,466.2 403.4,444.9 407.4,444.9 407.4,438.9 390.1,438.9 390.1,444.9 394.1,444.9
+		394.1,467.6 384.1,467.6 384.1,471.6 366.1,471.6 366.1,415.9 	"/>
 </g>
 <g id="Store_27">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="419,451.7 466.3,451.7 466.3,380 419,380 419,435.3 
-		406.3,435.3 406.3,439 403,439 403,451.7 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="429.4,487.6 476.7,487.6 476.7,415.9 429.4,415.9
+		429.4,471.2 416.7,471.2 416.7,474.9 413.4,474.9 413.4,487.6 	"/>
 </g>
 <g id="Store_26">
-	<rect x="466.3" y="380" fill="none" stroke="#000000" stroke-miterlimit="10" width="60.7" height="94.3"/>
+	<rect x="476.7" y="415.9" fill="none" stroke="#939598" stroke-miterlimit="10" width="60.7" height="94.3"/>
 </g>
 <g id="Store_25">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="662,461 673.3,420.3 688.3,423.7 688.3,405.7 695,405.7 
-		695,359.3 708.7,359.3 708.7,244.5 635,244.3 631.3,249.7 527,249.7 527,474.3 661.7,474.3 661.7,463.7 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="672.4,496.9 683.7,456.2 698.7,459.6 698.7,441.6
+		705.4,441.6 705.4,395.2 719.1,395.2 719.1,280.4 645.4,280.2 641.7,285.6 537.4,285.6 537.4,510.2 672.1,510.2 672.1,499.6 	"/>
 </g>
 <g id="Store_24">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="527,255.7 502,255.8 502,308 512.5,320.5 527,320.5 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="537.4,291.6 512.4,291.6 512.4,343.9 522.9,356.4
+		537.4,356.4 	"/>
 </g>
 <g id="Store_23">
-	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M482,255.8h20V308l-10-8.5c-3.6,0.1-7.1,0.1-10.5,0.1L482,255.8z"/>
+	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M492.4,291.6h20v52.2l-10-8.5c-3.6,0.1-7.1,0.1-10.5,0.1L492.4,291.6
+		z"/>
 </g>
 <g id="Store_22">
-	<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="461,298.4 467.5,255.8 477.7,255.8 482,255.8 481.5,299.6 
-		461,298.4 	"/>
+	<polyline fill="none" stroke="#939598" stroke-miterlimit="10" points="471.4,334.3 477.9,291.6 488.1,291.6 492.4,291.6
+		491.9,335.5 471.4,334.3 	"/>
 </g>
 <g id="Store_21">
-	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M450.5,244.5l7.2,7.2v4l9.8,0.1l-6.5,42.6c-9.3-1-17.8-2.7-25.7-4.8
-		L450.5,244.5z"/>
+	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M460.9,280.4l7.2,7.2v4l9.8,0.1l-6.5,42.6c-9.3-1-17.8-2.7-25.7-4.8
+		L460.9,280.4z"/>
 </g>
 <g id="Store_20">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="413.3,285.8 441.6,235.6 450.5,244.5 435.3,293.6 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="423.7,321.7 451.9,271.4 460.9,280.4 445.7,329.5 	"/>
 </g>
 <g id="Store_19">
-	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M436,230l5.6,5.6l-28.2,50.2c-4.3-2-8.4-4.1-12.3-6.4L436,230z"/>
+	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M446.4,265.9l5.6,5.6l-28.2,50.2c-4.3-2-8.4-4.1-12.3-6.4
+		L446.4,265.9z"/>
 </g>
 <g id="Store_18">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="384.1,267.3 426.7,220.7 436,230 401.1,279.4 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="394.5,303.1 437.1,256.6 446.4,265.9 411.5,315.3 	"/>
 </g>
 <g id="Store_17">
-	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M414.6,208.6l12.1,12.1l-42.6,46.6c-9-7.7-16.2-16.1-22-24.7
-		L414.6,208.6z"/>
+	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M425,244.5l12.1,12.1l-42.6,46.6c-9-7.7-16.2-16.1-22-24.7L425,244.5
+		z"/>
 </g>
 <g id="Store_16">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="362.1,242.6 414.6,208.6 402.5,196.5 350,220.3 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="372.5,278.4 425,244.5 412.9,232.4 360.4,256.2 	"/>
 </g>
 <g id="Store_15">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="339,178 385,179 402.5,196.5 350,220.3 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="349.4,213.9 395.4,214.9 412.9,232.4 360.4,255.9 	"/>
 </g>
 <g id="Store_14">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="380.3,163.7 349,134.3 326.5,169.8 339,178 380.3,179 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="390.7,199.6 359.4,170.2 336.9,205.7 349.4,213.9
+		390.7,214.8 	"/>
 </g>
 <g id="Store_13">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="348.5,135.5 348.5,111 310.5,111 310.5,166 319,166 
-		326.5,169.8 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="358.9,171.4 358.9,146.9 320.9,146.9 320.9,201.9
+		329.4,201.9 336.9,205.7 	"/>
 </g>
 <g id="Store_12">
-	<rect x="289" y="111" fill="none" stroke="#000000" stroke-miterlimit="10" width="21.5" height="55"/>
+	<rect x="299.4" y="146.9" fill="none" stroke="#939598" stroke-miterlimit="10" width="21.5" height="55"/>
 </g>
 <g id="Store_11">
-	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="282.3,474.3 218.7,474.3 218.7,421.7 215,421.7 215,395.4 
-		271.7,395.4 271.7,380 276.5,380 276.5,385.5 282.3,385.5 	"/>
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="292.6,510.2 229.1,510.2 229.1,457.6 225.4,457.6
+		225.4,431.3 282.1,431.3 282.1,415.9 286.9,415.9 286.9,421.4 292.6,421.4 	"/>
 </g>
 <g id="Store_10">
-	<rect x="215" y="346.5" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="48.9"/>
+	<rect x="225.4" y="382.4" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="48.9"/>
 </g>
 <g id="Store_9">
-	<rect x="215" y="317.1" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="29.5"/>
+	<rect x="225.4" y="352.9" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="29.5"/>
 </g>
 <g id="Store_8">
-	<rect x="215" y="287.6" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="29.5"/>
+	<rect x="225.4" y="323.5" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="29.5"/>
 </g>
 <g id="Store_7">
-	<rect x="215" y="269.3" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="18.3"/>
+	<rect x="225.4" y="305.2" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="18.3"/>
 </g>
 <g id="Store_6">
-	<rect x="215" y="251.1" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="18.3"/>
+	<rect x="225.4" y="286.9" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="18.3"/>
 </g>
 <g id="Store_5">
-	<rect x="215" y="232.8" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="18.3"/>
+	<rect x="225.4" y="268.7" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="18.3"/>
 </g>
 <g id="Store_4">
-	<rect x="215" y="208.6" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="24.2"/>
+	<rect x="225.4" y="244.5" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="24.2"/>
 </g>
 <g id="Store_3">
-	<rect x="215" y="184.4" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="24.2"/>
+	<rect x="225.4" y="220.3" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="24.2"/>
 </g>
 <g id="Store_2">
-	<rect x="215" y="155.1" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="29.3"/>
+	<rect x="225.4" y="191" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="29.3"/>
 </g>
 <g id="Store_1">
-	<rect x="215" y="78.3" fill="none" stroke="#000000" stroke-miterlimit="10" width="56.7" height="51.3"/>
+	<rect x="225.4" y="114.2" fill="none" stroke="#939598" stroke-miterlimit="10" width="56.7" height="51.3"/>
+	<g>
+		<text transform="matrix(1 0 0 1 1196.4669 100.5527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Modern</tspan><tspan x="-2.4" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Day Spa</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 1256.387 146.2306)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Salad</tspan><tspan x="-11.8" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Creations</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 1276.387 118.7491)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Great Wraps &amp;</tspan><tspan x="1.9" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Cheesesteaks</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 1299.387 150.2807)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Panera</tspan><tspan x="3.1" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bread</tspan></text>
+	</g>
+	<text transform="matrix(1 0 0 1 1198.8464 168.5527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Capital</tspan><tspan x="-9.2" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">One Bank</tspan></text>
+	<text transform="matrix(1 0 0 1 1187.5554 192.5527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">The Sweet</tspan><tspan x="9.7" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Factory</tspan></text>
+	<text transform="matrix(1 0 0 1 1194.9617 218.5527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bubbles</tspan><tspan x="-8" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Haircutters</tspan></text>
+	<text transform="matrix(1 0 0 1 1187.0447 243.5527)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">GameStop</text>
+	<text transform="matrix(1 0 0 1 1205.0769 261.5527)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Lush</text>
+	<text transform="matrix(1 0 0 1 1204.1603 279.5527)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bose</text>
+	<rect x="1162.7" y="300.9" fill="none" width="57" height="20.7"/>
+	<text transform="matrix(1 0 0 1 1171.7429 305.8842)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">One Stop News</text>
+	<rect x="1162.7" y="327.9" fill="none" width="57" height="20.7"/>
+	<text transform="matrix(1 0 0 1 1174.865 332.8842)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Stars &amp; Stripes</text>
+	<rect x="1162.7" y="363.9" fill="none" width="57" height="20.7"/>
+	<text transform="matrix(1 0 0 1 1177.9734 368.8842)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Auntie Anne’s </tspan><tspan x="17.9" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Pretzels</tspan></text>
+	<rect x="1162.7" y="417.9" fill="none" width="57" height="55"/>
+	<text transform="matrix(1 0 0 1 1198.196 422.8842)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Harry’s</tspan><tspan x="-14.7" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Smoehouse</tspan><tspan x="-15.6" y="16.8" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Burgers and </tspan><tspan x="7" y="25.2" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">BBQ</tspan></text>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1219.7" y1="58.9" x2="1219.7" y2="515.9"/>
+	<text transform="matrix(0.9787 -0.2055 0.2055 0.9787 1303.0538 202.2191)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Popeyes</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Chicken</tspan></text>
+
+		<text transform="matrix(0.9245 -0.3812 0.3812 0.9245 1313.7203 228.2192)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">McDonald’s</text>
+	<text transform="matrix(0.842 -0.5394 0.5394 0.842 1329.72 248.2191)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Maki of</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Japan</tspan></text>
+
+		<text transform="matrix(0.68 -0.7333 0.7333 0.68 1349.3865 268.8856)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Texas BBQ</text>
+
+		<text transform="matrix(0.5094 -0.8605 0.8605 0.5094 1365.3868 279.5533)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Subway</text>
+
+		<text transform="matrix(1.813042e-02 0.9998 -0.9998 1.813042e-02 1425.0529 269.2203)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Chipotle</text>
+
+		<text transform="matrix(2.084462e-02 0.9998 -0.9998 2.084462e-02 1440.0524 268.2201)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Taco Bell</text>
+
+		<text transform="matrix(2.084462e-02 0.9998 -0.9998 2.084462e-02 1465.7184 266.886)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Panda Express</text>
+	<text transform="matrix(0.3323 -0.9432 0.9432 0.3323 1381.3868 286.3861)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Kelly’s</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Cajun Grill</tspan></text>
+	<text transform="matrix(0.2315 -0.9728 0.9728 0.2315 1402.3868 293.3863)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Villa Fresh</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Italian Kitchen</tspan></text>
+	<rect x="1562.4" y="344.6" fill="none" width="63.7" height="32.3"/>
+	<text transform="matrix(1 0 0 1 1562.3875 349.5509)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Forever XXI</text>
+	<rect x="1436.4" y="384.6" fill="none" width="11.3" height="34.3"/>
+	<text transform="matrix(0 1 -1 0 1442.7234 384.5529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Express</text>
+	<rect x="1386.4" y="384.6" fill="none" width="11.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 1392.7244 384.5529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Sunglass Hut</text>
+	<rect x="1311.4" y="384.6" fill="none" width="11.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 1317.7244 384.5529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Haagen-Dasz</text>
+	<rect x="1296.4" y="384.6" fill="none" width="11.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 1302.7244 384.5529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Au Bon Pain</text>
+	<rect x="1267.4" y="384.6" fill="none" width="18.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 1280.7244 384.5529)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Johnny</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Rockets</tspan></text>
+	<rect x="1270.4" y="439.7" fill="none" width="49.3" height="26.8"/>
+	<text transform="matrix(1 0 0 1 1270.3876 444.7166)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Fast Fix</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Jewelry</tspan><tspan x="0" y="16.8" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Repair</tspan></text>
+	<g>
+		<text transform="matrix(1 0 0 1 254.0245 137.0527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Modern</tspan><tspan x="-2.4" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Day Spa</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 312.9445 179.7306)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Salad</tspan><tspan x="-11.8" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Creations</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0 1 -1 0 333.9445 152.2491)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Great Wraps &amp;</tspan><tspan x="1.9" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Cheesesteaks</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 351.2647 197.0531)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Panera</tspan><tspan x="3.1" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bread</tspan></text>
+	</g>
+	<text transform="matrix(1 0 0 1 256.404 204.0527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Capital</tspan><tspan x="-9.2" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">One Bank</tspan></text>
+	<text transform="matrix(1 0 0 1 245.113 230.0527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">The Sweet</tspan><tspan x="9.7" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Factory</tspan></text>
+	<text transform="matrix(1 0 0 1 252.5193 254.0527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bubbles</tspan><tspan x="-8" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Haircutters</tspan></text>
+	<text transform="matrix(1 0 0 1 244.6023 280.0527)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">GameStop</text>
+	<text transform="matrix(1 0 0 1 262.6345 298.0527)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Lush</text>
+	<text transform="matrix(1 0 0 1 261.7179 316.0527)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bose</text>
+	<rect x="220.3" y="334.4" fill="none" width="57" height="20.7"/>
+	<text transform="matrix(1 0 0 1 229.3005 339.3842)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">One Stop News</text>
+	<rect x="220.3" y="363.4" fill="none" width="57" height="20.7"/>
+	<text transform="matrix(1 0 0 1 232.4226 368.3842)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Stars &amp; Stripes</text>
+	<rect x="220.3" y="399.4" fill="none" width="57" height="20.7"/>
+	<text transform="matrix(1 0 0 1 235.531 404.3842)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Auntie Anne’s </tspan><tspan x="17.9" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Pretzels</tspan></text>
+	<rect x="220.3" y="453.4" fill="none" width="57" height="55"/>
+	<text transform="matrix(1 0 0 1 255.7536 458.3842)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Harry’s</tspan><tspan x="-14.7" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Smoehouse</tspan><tspan x="-15.6" y="16.8" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Burgers and </tspan><tspan x="7" y="25.2" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">BBQ</tspan></text>
+	<text transform="matrix(0.9787 -0.2055 0.2055 0.9787 360.6117 232.4124)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Popeyes</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Chicken</tspan></text>
+
+		<text transform="matrix(0.8938 -0.4484 0.4484 0.8938 372.278 265.7191)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">McDonald’s</text>
+	<text transform="matrix(0.7613 -0.6484 0.6484 0.7613 386.6108 284.719)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Maki of</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Japan</tspan></text>
+
+		<text transform="matrix(0.6298 -0.7767 0.7767 0.6298 407.9441 305.3859)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Texas BBQ</text>
+
+		<text transform="matrix(0.5094 -0.8605 0.8605 0.5094 422.9445 315.0533)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Subway</text>
+
+		<text transform="matrix(-5.155302e-02 0.9987 -0.9987 -5.155302e-02 481.6098 304.7202)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Chipotle</text>
+
+		<text transform="matrix(5.199258e-03 1 -1 5.199258e-03 499.6101 303.7198)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Taco Bell</text>
+
+		<text transform="matrix(2.084462e-02 0.9998 -0.9998 2.084462e-02 523.276 301.386)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Panda Express</text>
+	<text transform="matrix(0.3323 -0.9432 0.9432 0.3323 435.9445 321.8861)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Kelly’s</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Cajun Grill</tspan></text>
+	<text transform="matrix(0.2029 -0.9792 0.9792 0.2029 458.9446 328.8867)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="6">Villa Fresh</tspan><tspan x="0" y="7.2" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="6">Italian Kitchen</tspan></text>
+	<rect x="605.9" y="380.1" fill="none" width="63.7" height="32.3"/>
+	<text transform="matrix(1 0 0 1 605.9451 385.0509)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Forever XXI</text>
+	<rect x="497.9" y="423.1" fill="none" width="11.3" height="34.3"/>
+	<text transform="matrix(0 1 -1 0 504.281 423.0529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Express</text>
+	<rect x="443.9" y="423.1" fill="none" width="11.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 450.282 423.0529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Sunglass Hut</text>
+	<rect x="368.9" y="423.1" fill="none" width="11.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 375.282 423.0529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Haagen-Dasz</text>
+	<rect x="348.9" y="423.1" fill="none" width="11.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 355.282 423.0529)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Au Bon Pain</text>
+	<rect x="321.9" y="423.1" fill="none" width="18.3" height="49.3"/>
+	<text transform="matrix(0 1 -1 0 335.282 423.0529)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Johnny</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Rockets</tspan></text>
+	<rect x="341.9" y="480.2" fill="none" width="49.3" height="26.8"/>
+	<text transform="matrix(1 0 0 1 341.9452 485.2166)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Fast Fix</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Jewelry</tspan><tspan x="0" y="16.8" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Repair</tspan></text>
 </g>
 </svg>
