@@ -12,24 +12,25 @@
 	</head>
 	<body ng-app="SearchableMall">
 		<div class='container'>
-			<div class='row'></div>
+			<div id='spacer' class='row'></div>
 			<div class='row'>
-				<div class='col-md-8'>
-					MAP
+				<div class='col-md-9'>
+					<h3>Crystall City Mall, Arlington, VA</h3>
 				</div>
-				<div class='col-md-4'>
-					<div class='row'>
-						<form class="form-inline" role="form">
+				<div class='col-md-3'>
+					<div class='text-center row'>
+						<h4>Search</h2>
+						<form class="form-group" role="form">
 							<div class="input-group">
 							  <span class="input-group-addon" id="sizing-addon1">
 								  <i class="fa fa-search"></i>
 							  </span>
-							<input type="text" class="form-control" ng-model="selectedState" ng-options="state for state in states" placeholder="Enter keywords" bs-typeahead>
+							<input type="text" class="input-lg form-control" ng-model="selectedState" ng-options="state for state in states" placeholder="Enter keywords" bs-typeahead>
 
 							</div>
 						</form>
 					</div>
-					<div class='row'>
+					<div class='text-center row'>
 						<h4>Results [COUNT]</h2>
 						<div class='panel panel-default'>
 							<div class='panel-body'>
