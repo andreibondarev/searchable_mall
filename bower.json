@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "homepage": "https://github.com/andreibondarev/searchable_mall",
   "authors": [
-    "Andrei Bondarev <andrei.bondarev13@gmail.com>"
+    "Andrei Bondarev <andrei.bondarev13@gmail.com>",
+    "Miko Borys <fxrock2002@yahoo.com>"
   ],
   "description": "Searchable Mall directory",
   "main": "index.html",
