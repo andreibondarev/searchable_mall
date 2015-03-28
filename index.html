@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Searchable Mall Directory</title>
+		<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+		<script type="text/javascript" src="bower_components/angular-strap/dist/angular-strap.min.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+	    <link type="text/css" rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" charset="utf-8">
+	    <link type="text/css" rel="stylesheet" href="css/index.css" charset="utf-8">
+	</head>
+	<body ng-app="SearchableMall">
+		<form class="form-inline" role="form">
+			<div class="form-group">
+				<label> <i class="fa fa-search"></i>
+					Search
+				</label>
+				<input type="text" class="form-control" ng-model="selectedState" ng-options="state for state in states" placeholder="Enter state" bs-typeahead>
+			</div>
+		</form>
+	</body>
+</html>
