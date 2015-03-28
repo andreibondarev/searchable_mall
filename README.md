@@ -1,2 +1,2 @@
 # searchable_mall
-Startup Weekend Maker - April 2015
+Startup Weekend DC: Maker Edition - April 2015
