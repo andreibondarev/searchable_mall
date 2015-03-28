@@ -12,13 +12,15 @@
 	    <link type="text/css" rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" charset="utf-8">
 	</head>
 	<body ng-app="SearchableMall">
+		<div class='row'>
+			<div ng-include="'images/map.svg'"></div>
+		</div>
 		<div class='container'>
 			<div id='spacer' class='row'></div>
 			<div class='row'>
 				<div class='col-md-9'>
 					<h3>Crystall City Mall, Arlington, VA</h3>
 				</div>
-				<div ng-include="'images/map.svg'"></div>
 				<div class='col-md-3' ng-controller="SearchableController">
 					<div class='text-center row'>
 						<h4>Search</h4>

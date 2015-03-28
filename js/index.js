@@ -1,5 +1,6 @@
 var searchableMall = angular.module('SearchableMall', []);
 
+searchableMall.constant('BG_HIGHLIGHT', 'yellow');
 searchableMall.constant('PRODUCT_DATA', [{
 		store: 'Nordstrom',
 		keywords: ['north face', 'columbia']
@@ -32,5 +33,9 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', fun
 		$scope.results = results;
 		$scope.results_count = $scope.results.length
 	});
+
+	function highlight(result) {
+		$('').css('fill', )
+	}
 
 }]);
