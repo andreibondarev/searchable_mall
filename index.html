@@ -5,6 +5,7 @@
 		<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
 		<script type="text/javascript" src="bower_components/angular-strap/dist/angular-strap.min.js"></script>
 		<script type="text/javascript" src="bower_components/bootstrap/dist/bootstrap.js"></script>
+		<script type="text/javascript" src="bower_components/lodash/lodash.min.js"></script>
 		<script type="text/javascript" src="js/index.js"></script>
 	    <link type="text/css" rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" charset="utf-8">
 	    <link type="text/css" rel="stylesheet" href="css/index.css" charset="utf-8">
@@ -17,29 +18,24 @@
 				<div class='col-md-9'>
 					<h3>Crystall City Mall, Arlington, VA</h3>
 				</div>
-				<div class='col-md-3'>
+				<div class='col-md-3' ng-controller="SearchableController">
 					<div class='text-center row'>
-						<h4>Search</h2>
+						<h4>Search</h4>
 						<form class="form-group" role="form">
 							<div class="input-group">
 							  <span class="input-group-addon" id="sizing-addon1">
 								  <i class="fa fa-search"></i>
 							  </span>
-							<input type="text" class="input-lg form-control" ng-model="selectedState" ng-options="state for state in states" placeholder="Enter keywords" bs-typeahead>
+							<input type="text" class="input-lg form-control" ng-model="query" placeholder="Enter keywords">
 
 							</div>
 						</form>
 					</div>
 					<div class='text-center row'>
-						<h4>Results [COUNT]</h2>
-						<div class='panel panel-default'>
+						<h4>Results [COUNT]</h4>
+						<div class='panel panel-default' ng-repeat="item in results">
 							<div class='panel-body'>
-								Macy's
-							</div>
-						</div>
-						<div class='panel panel-default'>
-							<div class='panel-body'>
-								Nordstrom
+								{{ item.store }}
 							</div>
 						</div>
 					</div>
