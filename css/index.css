@@ -1,5 +1,5 @@
 #spacer {
-	margin-top: 80px;
+	margin-top: 30px;
 }
 
 .text-center {
@@ -129,4 +129,15 @@ body h1, body h2, body h3, body h4, body h5 {
 #details-panel {
 	color: white;
 	margin-top: 38px;
+}
+
+#logo {
+    display:block;
+    margin:auto;
+    width: 100px;
+    height: 100px;
+}
+
+.blue {
+	background-color: rgb(0, 174, 239) !important;
 }

@@ -17,15 +17,22 @@
 	</head>
     <body ng-app="SearchableMall">
         <div ng-controller='SearchableController'>
-	        <div id='spacer'></div>
             <div class='container' style='width: 1400px'>
-	            <h1>Fashion Centre @ Pentagon City</h1>
+            	<div class='row' style='margin-top:30px;'>
+            		<div class='col-md-9'>
+						<h1>Fashion Centre @ Pentagon City</h1>
+            		</div>
+            		<div class='col-md-3 logo-container'>
+			            <img src='images/searchboxx_web_logo_300px.png' id='logo' />
+		            </div>
+	            </div>
+	            <div id='spacer'></div>
             	<div class='row'>
 					<div ng-show='showPanel' class='col-md-8' id='details-panel'>
 						<div class="panel" ng-show='showPanel' class='col-md-10' ng-click='showPanel=false;'>
 							<div class='panel panel-default'>
 								<div class="panel-heading">
-									<span style="font-size: 18pt">{{ panelObject.store }}</span>
+									<h3>{{ panelObject.store }}</h3>
 								</div>
 								<div class="panel-body">
 									<div class='row'>
@@ -71,7 +78,7 @@
 
 					<div class='col-md-3' ng-class="{'col-md-offset-1': showPanel}">
 					    <div class='text-center row'>
-							<h4>Search</h4>
+							<h3>Search</h3>
 							<form class="form-group" role="form">
 								<div class="input-group">
 									<span class="input-group-addon" id="sizing-addon1">
@@ -82,9 +89,9 @@
 							</form>
 						</div>
 						<div class='text-center row'>
-							<h4>Results ( {{ results.length | filter:greaterThanOrEqual(score, queryWords.length)  }} )</h4>
+							<h3>Results ( {{ results.length | filter:greaterThanOrEqual(score, queryWords.length)  }} )</h3>
 							<div class='panel panel-default list-view' ng-repeat="item in results | filter:greaterThanOrEqual('score', queryWords.length) | orderBy: '-score'">
-								<div class='panel-body' ng-click='openDetails(item)'>
+								<div class='panel-body' ng-click='openDetails(item)' ng-class='{blue: (panelObject==item) && showPanel==true}'>
 									{{ item.store }}
 								</div>
 							</div>
