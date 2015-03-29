@@ -16,7 +16,7 @@
     <body ng-app="SearchableMall">
         <div ng-controller='SearchableController'>
 	        <div id='spacer'></div>
-            <div class='container'>
+            <div class='container' style='width: 1400px'>
 	            <h2>Fashion Centre @ Pentagon City</h2>
             	<div class='row'>
 					<div ng-show='showPanel' class='col-md-9'>
@@ -36,20 +36,20 @@
             		<div ng-hide='showPanel' class='col-md-9'>
 						<div class='row'>
 							<div class='col-md-6'>
-								<div ng-include="'images/map0.svg'"></div>
+								<div ng-include="'images/SearchBoxx_Metro_Level.svg'"></div>
 							</div>
 							<div class='col-md-6'>
-								<div ng-include="'images/map1.svg'"></div>
+								<div ng-include="'images/SearchBoxx_Ground_Level.svg'"></div>
 							</div>
 						</div>
 						<div class='row'>
 							<div class='col-md-6'>
-								<div ng-include="'images/map2.svg'"></div>
+								<div ng-include="'images/SearchBoxx_Second_Level.svg'"></div>
 							</div>
 							<div class='col-md-6'>
-								<div ng-include="'images/map3.svg'"></div>
+								<div ng-include="'images/SearchBoxx_Third_Level.svg'"></div>
 							</div>
-						</div>
+						</div>						
             		</div>
 
 					<div class='col-md-3'>
@@ -60,7 +60,7 @@
 								  <span class="input-group-addon" id="sizing-addon1">
 									  <i class="fa fa-search"></i>
 								  </span>
-								<input type="text" class="input-lg form-control" ng-model="query" placeholder="Search a product or store...">
+								<input type="text" class="input-lg form-control" ng-model="query" placeholder="Search a product or store..." autofocus>
 
 								</div>
 							</form>
