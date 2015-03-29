@@ -67,7 +67,10 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 			angular.copy($scope.results, oldResults);
 
 			_.each($scope.results, function(result) {
-				highlight(result);
+				debugger
+				if (result.score >= $scope.queryWords.length) {
+					highlight(result);
+				}
 			});
 		} else {
 			$scope.results = []
