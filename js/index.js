@@ -106,8 +106,9 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 			_.each($scope.results, function(result) {
 				highlight(result.name);
 			});
+		} else {
+			$scope.results = []
 		}
-
 	});
 
 	$scope.greaterThanOrEqual = function(prop, val){
