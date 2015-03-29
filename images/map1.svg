@@ -187,6 +187,6 @@
 		<text transform="matrix(1 0 0 1 254.0245 108.0527)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Modern</tspan><tspan x="-2.4" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Day Spa</tspan></text>
 	</g>
 	<rect x="205.4" y="555.8" fill="none" width="570.1" height="180"/>
-	<text transform="matrix(1 0 0 1 205.3876 606.2028)" fill="#FFFFFF" font-family="'BebasNeueBold'" font-size="72">Metro Level</text>
+	<text transform="matrix(1 0 0 1 205.3876 606.2028)" fill="#FFFFFF" font-family="'BebasNeueBold'" font-size="60">Metro Level</text>
 </g>
 </svg>
