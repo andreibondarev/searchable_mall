@@ -6,40 +6,54 @@
 		<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
 		<script type="text/javascript" src="bower_components/angular-strap/dist/angular-strap.min.js"></script>
 		<script type="text/javascript" src="bower_components/bootstrap/dist/bootstrap.js"></script>
+		<script type="text/javascript" src="bower_components/angular-animate/angular-animate.min.js"></script>
 		<script type="text/javascript" src="bower_components/lodash/lodash.min.js"></script>
 		<script type="text/javascript" src="js/index.js"></script>
 	    <link type="text/css" rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.css" charset="utf-8">
 	    <link type="text/css" rel="stylesheet" href="css/index.css" charset="utf-8">
 	    <link type="text/css" rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" charset="utf-8">
 	</head>
-	<body ng-app="SearchableMall">
-		<div class='map'>
-			<div ng-include="'images/map.svg'"></div>
-		</div>
-		<div class='container'>
-			<div id='spacer' class='row'></div>
-			<div class='row'>
-				<div class='col-md-9'>
-					<h3>Crystall City Mall, Arlington, VA</h3>
-				</div>
-				<div class='col-md-3' ng-controller="SearchableController">
-					<div class='text-center row'>
-						<h4>Search</h4>
-						<form class="form-group" role="form">
-							<div class="input-group">
-							  <span class="input-group-addon" id="sizing-addon1">
-								  <i class="fa fa-search"></i>
-							  </span>
-							<input type="text" class="input-lg form-control" ng-model="query" placeholder="Enter keywords">
-
+    <body ng-app="SearchableMall">
+        <div ng-controller='SearchableController'>
+			<div ng-hide='showPanel' class='map'>
+	            <div ng-include="'images/map.svg'"></div>
+			</div>
+	        <div class='container'>
+	            <div id='spacer' class='row'></div>
+				<div class='row'>
+	 				<div class='col-md-9'>
+						<h2>Fashion Centre at Pentagon City</h2>
+		 				<div class="panel" ng-show='showPanel' class='col-md-10' ng-click='showPanel=false;'>
+							<div class='panel panel-default'>
+								<div class="panel-heading">
+	                                <span style="font-size: 26pt">{{ panelObject.store }}</span>
+								</div>
+								<div class="panel-body">
+                                    <img ng-src='{{panelObject.image}}'/>
+	                                <p>{{ panelObject.details }}</p>
+                                </div>
 							</div>
-						</form>
+						</div>
 					</div>
-					<div class='text-center row'>
-						<h4>Results ({{ results_count }})</h4>
-						<div class='panel panel-default' ng-repeat="item in results">
-							<div class='panel-body'>
-								{{ item.store }}
+					<div class='col-md-3'>
+	                    <div class='text-center row'>
+							<h4>Search</h4>
+							<form class="form-group" role="form">
+								<div class="input-group">
+								  <span class="input-group-addon" id="sizing-addon1">
+									  <i class="fa fa-search"></i>
+								  </span>
+								<input type="text" class="input-lg form-control" ng-model="query" placeholder="Search a product or store...">
+
+								</div>
+							</form>
+						</div>
+						<div class='text-center row'>
+							<h4>Results ({{ results.length | filter:greaterThanOrEqual(score, queryWords.length)  }})</h4>
+							<div class='panel panel-default list-view' ng-repeat="item in results | filter:greaterThanOrEqual('score', queryWords.length) | orderBy: '-score'">
+								<div class='panel-body' ng-click='openDetails(item)'>
+									{{ item.store }}
+								</div>
 							</div>
 						</div>
 					</div>
