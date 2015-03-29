@@ -25,7 +25,7 @@
 	<text transform="matrix(0 1 -1 0 211.5938 217.1907)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Kay</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Jewelers</tspan></text>
 </g>
 <g id="the_walking_company">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="244.9,190 257.5,190 257.5,261.4 224,261.4 224,193.5 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="244.9,190 257.5,190 257.5,261.4 224,261.4 224,193.5
 		244.8,193.5 	"/>
 	<rect x="230.7" y="200.4" fill="none" width="16.8" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 242.5234 200.3741)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">The Walking</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Company</tspan></text>
@@ -61,13 +61,13 @@
 	<text transform="matrix(0 1 -1 0 401.6963 200.374)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Accessorize</text>
 </g>
 <g id="swatch">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="440.5,193.2 438.8,193.2 438.8,190 418,190 418,257.5 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="440.5,193.2 438.8,193.2 438.8,190 418,190 418,257.5
 		444,257.5 444,193.2 	"/>
 	<rect x="413" y="200.4" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 429.6963 200.374)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Swatch</text>
 </g>
 <g id="luggage_plus">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="474.5,257.5 474.5,207.2 455.5,206.9 455.5,193.2 444,193.2 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="474.5,257.5 474.5,207.2 455.5,206.9 455.5,193.2 444,193.2
 		444,257.6 	"/>
 	<rect x="446.5" y="218.3" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 463.1865 218.3108)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Luggage</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Plus</tspan></text>
@@ -83,8 +83,8 @@
 	<text transform="matrix(1 0 0 1 304.6984 342.2814)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">The Ritz-Carlton</text>
 </g>
 <g id="brookstone">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="477.8,428.5 505,428.5 505,424.2 511.2,424.2 511.2,374.8 
-		506,374.8 506,369 474.5,369 474.5,354.5 440.5,354.5 440.5,359.5 444.2,359.5 444.2,398 446,398 446,401.8 440.5,401.8 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="477.8,428.5 505,428.5 505,424.2 511.2,424.2 511.2,374.8
+		506,374.8 506,369 474.5,369 474.5,354.5 440.5,354.5 440.5,359.5 444.2,359.5 444.2,398 446,398 446,401.8 440.5,401.8
 		440.5,396.8 432.2,396.8 432.2,410 436.4,414.1 436.4,421 474.5,421 474.5,425.5 477.8,425.5 	"/>
 	<rect x="460" y="390.5" fill="none" width="63.7" height="21.6"/>
 	<text transform="matrix(1 0 0 1 460.0389 395.4767)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Brookstone</text>
@@ -102,46 +102,46 @@
 	<text transform="matrix(0 1 -1 0 611.6963 378.9774)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">The Art of</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Shaving</tspan></text>
 </g>
 <g id="brighton">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="623,423.5 642.7,423.5 642.7,374.7 638,374.7 638,369 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="623,423.5 642.7,423.5 642.7,374.7 638,374.7 638,369
 		623,369 	"/>
 	<rect x="618.4" y="378.6" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 635.04 378.644)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Brighton</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Collectibles</tspan></text>
 </g>
 <g id="c._wonder">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="747.2,352.2 703,352.2 703,368.2 675.2,368.2 675.2,374 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="747.2,352.2 703,352.2 703,368.2 675.2,368.2 675.2,374
 		670.7,374 670.7,423.8 675.5,423.8 675.5,429 703.8,429 703.8,424.5 706.8,424.5 706.8,421.2 747.2,421.2 	"/>
 	<rect x="703" y="360.6" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 719.6963 360.644)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">C. Wonder</text>
 </g>
 <g id="microsoft">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="756.5,421.2 756.5,460 802.7,460 802.7,352.2 747.2,352.2 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="756.5,421.2 756.5,460 802.7,460 802.7,352.2 747.2,352.2
 		747.2,421.3 	"/>
 	<rect x="754" y="360.6" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 770.6963 360.644)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Microsoft</text>
 </g>
 <g id="guess">
-	<polyline fill="none" stroke="#939598" stroke-miterlimit="10" points="914,372.4 899,368 899,370.2 894.5,370.2 894.5,367 
-		882.8,367 882.8,361 870.8,361 870.8,356 867.5,356 867.5,352.2 802.7,352.2 802.7,355 802.7,455.3 802.7,460 870.2,460 870.2,455 
+	<polyline fill="none" stroke="#939598" stroke-miterlimit="10" points="914,372.4 899,368 899,370.2 894.5,370.2 894.5,367
+		882.8,367 882.8,361 870.8,361 870.8,356 867.5,356 867.5,352.2 802.7,352.2 802.7,355 802.7,455.3 802.7,460 870.2,460 870.2,455
 		891,455 914,372.4 	"/>
 	<rect x="815" y="360.6" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 831.6963 360.644)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">GUESS</text>
 </g>
 <g id="macys">
-	
+
 		<rect x="923.9" y="211.4" transform="matrix(0.9647 0.2633 -0.2633 0.9647 123.0244 -238.2736)" fill="none" stroke="#939598" stroke-miterlimit="10" width="53.3" height="257"/>
-	
+
 		<rect x="885" y="340.6" transform="matrix(-0.2551 0.9669 -0.9669 -0.2551 1518.8507 -451.7817)" fill="none" width="96.8" height="37.1"/>
-	
+
 		<text transform="matrix(-0.2551 0.9669 -0.9669 -0.2551 951.2748 313.8519)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="18">MACY’S</text>
 </g>
 <g id="j._crew">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="871,213.3 948.2,213.3 948.2,218.5 956,218.5 930.2,313.1 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="871,213.3 948.2,213.3 948.2,218.5 956,218.5 930.2,313.1
 		883,313.1 883,318.7 871,318.7 	"/>
 	<rect x="885.9" y="276.6" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 902.5381 276.644)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">J. Crew</text>
 </g>
 <g id="banana_republic">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="793.3,213.3 871,213.3 871,318.7 871,323 868,323 868,327.3 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="793.3,213.3 871,213.3 871,318.7 871,323 868,323 868,327.3
 		793.3,327.3 	"/>
 	<rect x="813.2" y="265.1" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 829.8721 265.1439)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Banana Republic</text>
@@ -152,7 +152,7 @@
 	<text transform="matrix(0 1 -1 0 767.5381 295.522)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">ALDO</text>
 </g>
 <g id="sephora">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="733.1,209.4 737,213.3 746.3,213.3 746.3,327.3 703.2,327.3 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="733.1,209.4 737,213.3 746.3,213.3 746.3,327.3 703.2,327.3
 		703.1,291.4 	"/>
 	<rect x="708.2" y="287.8" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 724.8721 287.8107)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Sephora</text>
@@ -170,7 +170,7 @@
 	<text transform="matrix(1 0 0 1 630.2157 247.1761)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Godiva Chocolatier</text>
 </g>
 <g id="phillipe_suissa_salon">
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="733.1,209.4 726.9,225.4 622.2,225.2 636,211.3 636,206.9 
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="733.1,209.4 726.9,225.4 622.2,225.2 636,211.3 636,206.9
 		683,159.3 728.6,205 	"/>
 	<rect x="664.9" y="200.8" fill="none" width="63.7" height="21.6"/>
 	<text transform="matrix(1 0 0 1 664.8823 205.8201)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Phillipe</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Suissa Salon</tspan></text>
@@ -200,7 +200,7 @@
 <g id="bath_and_body_work">
 	<rect x="357.2" y="95.7" fill="none" width="21.6" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 373.8252 95.6893)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bath &amp; Body Works</text>
-	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="306.7,166.7 441.3,166.7 441.3,66 317,66 317,75 306.7,75 	
+	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="306.7,166.7 441.3,166.7 441.3,66 317,66 317,75 306.7,75
 		"/>
 </g>
 <g id="gap">
@@ -232,7 +232,7 @@
 	<rect x="34.8" y="525.8" fill="none" width="570.1" height="180"/>
 	<text transform="matrix(1 0 0 1 34.8049 576.2152)" fill="#FFFFFF" font-family="'BebasNeueBold'" font-size="72">Ground Level</text>
 	<g>
-		
+
 			<image overflow="visible" opacity="0.5" width="174" height="170" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALMAAACvCAYAAAC2AO8TAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA
 GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAEq1JREFUeNrsnQuzpCgMhYP6/3/x
 VXanambLZUhyEkBRk6quvv24/cDP04cAgSgiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
@@ -321,7 +321,7 @@ AKw9/jc/DeLHKpNDpd+oxCPgf6QaP/7gOlX6rYDnHv//ZIhfcSCL1SrpRcchX3USvAHi1/3sdlbr
 EREREREREREREREREREREREREREREREREdEl/hFgAPjQE+UZhOPrAAAAAElFTkSuQmCC" transform="matrix(0.24 0 0 0.24 440.2588 155.5699)">
 		</image>
 		<g>
-			<polygon fill="#00AEEF" points="461.1,166.9 464,172.8 470.5,173.8 465.8,178.4 466.9,184.9 461,181.8 455.2,184.9 456.3,178.4 
+			<polygon id="you_are_here" fill="#00AEEF" points="461.1,166.9 464,172.8 470.5,173.8 465.8,178.4 466.9,184.9 461,181.8 455.2,184.9 456.3,178.4
 				451.6,173.7 458.1,172.8 			"/>
 			<polygon fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
 				461.1,166.9 464,172.8 470.5,173.8 465.8,178.4 466.9,184.9 461,181.8 455.2,184.9 456.3,178.4 451.6,173.7 458.1,172.8 			"/>
