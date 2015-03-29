@@ -105,6 +105,10 @@ body h1, body h2, body h3, body h4, body h5 {
 .details-image {
 	width: 430px;
 	height: 200px;
+
+	border: 1px solid;
+	border-radius: 10px;
+	box-shadow: 5px 5px 5px #667;	
 }
 
 #details-panel .panel-heading {
