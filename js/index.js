@@ -41,6 +41,7 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
     }
 
 	$scope.$watch('query', function(newVal, oldVal) {
+		var newVal = newVal.toLowerCase();
 		$scope.showPanel = false;
 		$scope.panelObject = null;
 
@@ -50,12 +51,12 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 
 		if (newVal) {
 			$scope.results = _.filter(PRODUCT_DATA, function(item) {
-				var keywords = item.keywords.concat(item.store, item.id);
+				var keywords = item.keywords.concat(item.store.toLowerCase(), item.id);
 				$scope.queryWords = newVal.split(' ');
 
 				item.score = _.reduce(keywords, function(sum, keyword) {
 					return _.reduce($scope.queryWords, function(sum, queryWord) {
-						return sum + (~keyword.indexOf(queryWord) ? 1 : 0);
+						return sum + (~keyword.toLowerCase().indexOf(queryWord) ? 1 : 0);
 					}, sum);
 				}, 0);
 

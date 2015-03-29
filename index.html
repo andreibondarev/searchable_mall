@@ -90,12 +90,12 @@
 							</form>
 						</div>
 						<div class='text-center row'>
-							<h3>Results ( {{ results.length | filter:greaterThanOrEqual(score, queryWords.length)  }} )</h3>
+							<h3>Results ( {{ results.length | filter:greaterThanOrEqual('score', queryWords.length)  }} )</h3>
 							<div class='panel panel-default list-view' ng-repeat="item in results | filter:greaterThanOrEqual('score', queryWords.length) | orderBy: '-score'">
 								<div class='panel-body' ng-click='openDetails(item)' ng-class='{blue: (panelObject==item) && showPanel==true}'>
 									{{ item.store }}
 								</div>
-								
+
 							</div>
 						</div>
 					</div>
