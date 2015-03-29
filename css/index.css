@@ -101,3 +101,27 @@ body h1, body h2, body h3, body h4, body h5 {
 	     url('/fonts/BebasNeue Thin.ttf')  format('truetype');
     font-weight: 200;
 }
+
+.details-image {
+	width: 430px;
+	height: 200px;
+}
+
+#details-panel .panel-heading {
+	background-color: rgb(65,64,66) !important;
+	color: white;
+}
+
+#details-panel .panel-body {
+	background-color: rgb(65,64,66) !important;
+	font-size: 16px;
+}
+
+#details-panel .panel {
+	background-color: rgb(65,64,66) !important;
+}
+
+#details-panel {
+	color: white;
+	margin-top: 38px;
+}

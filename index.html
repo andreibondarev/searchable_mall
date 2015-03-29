@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 	<html>
 	<head>
+		<meta charset='utf-8'>
 		<title>Searchable Mall Directory</title>
 		<script type="text/javascript" src="bower_components/jquery/dist/jquery.js"></script>
 		<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
@@ -19,15 +20,28 @@
             <div class='container' style='width: 1400px'>
 	            <h2>Fashion Centre @ Pentagon City</h2>
             	<div class='row'>
-					<div ng-show='showPanel' class='col-md-9'>
+					<div ng-show='showPanel' class='col-md-8' id='details-panel'>
 						<div class="panel" ng-show='showPanel' class='col-md-10' ng-click='showPanel=false;'>
 							<div class='panel panel-default'>
 								<div class="panel-heading">
-									<span style="font-size: 26pt">{{ panelObject.store }}</span>
+									<span style="font-size: 18pt">{{ panelObject.store }}</span>
 								</div>
 								<div class="panel-body">
-									<img ng-src='{{panelObject.image}}'/>
-									<p>{{ panelObject.details }}</p>
+									<div class='row'>
+										<div class='col-md-6'>
+											<img class='details-image' ng-src='{{panelObject.image}}'/>
+										</div>
+										<div class='col-md-6'>
+											<p>{{ panelObject.details }}</p>
+											<p><i class='fa-clock-o fa'></i> {{ panelObject.hours }}</p>
+											<div>
+												<span ng-repeat='category in panelObject.categories'>
+													<i class='fa fa-tag'></i>
+													{{ category }}
+												</span>
+											</div>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -52,16 +66,15 @@
 						</div>						
             		</div>
 
-					<div class='col-md-3'>
+					<div class='col-md-3' ng-class="{'col-md-offset-1': showPanel}">
 					    <div class='text-center row'>
 							<h4>Search</h4>
 							<form class="form-group" role="form">
 								<div class="input-group">
-								  <span class="input-group-addon" id="sizing-addon1">
-									  <i class="fa fa-search"></i>
-								  </span>
-								<input type="text" class="input-lg form-control" ng-model="query" placeholder="Search a product or store..." autofocus>
-
+									<span class="input-group-addon" id="sizing-addon1">
+										<i class="fa fa-search"></i>
+									</span>
+									<input type="text" class="input-lg form-control" ng-model="query" placeholder="Search a product or store..." autofocus>
 								</div>
 							</form>
 						</div>
