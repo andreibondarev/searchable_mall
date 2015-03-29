@@ -12,14 +12,17 @@
 
 html, body {
 	background-color: rgb(65,64,66) !important;
+    font-family: 'BebasNeue';
 }
 
 body {
-	font-family: HelveticaNeue-Light;
 	color: #eee;
 }
 
 body h1, body h2, body h3, body h4, body h5 {
+    font-family: 'BebasNeue';
+    font-weight: bold;
+    letter-spacing: 1px;
 	color: #eee;
 }
 
@@ -70,4 +73,31 @@ body h1, body h2, body h3, body h4, body h5 {
 
 .panel.ng-hide {
   opacity: 0;
+}
+
+@font-face {
+    font-family: 'BebasNeueBold';
+	src: url('/fonts/BebasNeue Bold.otf') format('opentype'),
+	     url('/fonts/BebasNeue Bold.ttf')  format('truetype');
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+	src: url('/fonts/BebasNeue Regular.otf') format('opentype'),
+	     url('/fonts/BebasNeue Regular.ttf')  format('truetype');
+    font-weight: regular;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+	src: url('/fonts/BebasNeue Light.otf') format('opentype'),
+	     url('/fonts/BebasNeue Light.ttf')  format('truetype');
+    font-weight: light;
+}
+
+@font-face {
+    font-family: 'BebasNeue';
+	src: url('/fonts/BebasNeue Thin.otf') format('opentype'),
+	     url('/fonts/BebasNeue Thin.ttf')  format('truetype');
+    font-weight: 200;
 }
