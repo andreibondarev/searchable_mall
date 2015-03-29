@@ -13,19 +13,19 @@
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="587.5,206 587.5,214 598.9,225.8 608.9,225.8 631.9,204.3 
 		631.9,195 620.9,183.3 611.2,183.3 	"/>
 </g>
-<g id="White_House_Black_Market">
+<g id="white_house_black_market">
 	<rect x="74.1" y="204.1" fill="none" width="43.7" height="74.1"/>
 	<text transform="matrix(0 1 -1 0 112.7872 204.1152)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">White House</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Black Market</tspan></text>
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M137.4,252.2H83.6v-56.8h29.8h16.4c0,0,14.5-0.1,13.8,13.4
 		S137.4,252.2,137.4,252.2"/>
 </g>
-<g id="Lucky_Brand_Jeans">
+<g id="lucky_brand_jeans">
 	<rect x="176.1" y="201.9" fill="none" width="43.7" height="74.1"/>
 	<text transform="matrix(0 1 -1 0 214.7872 201.8652)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Lucky Brand</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Jeans</tspan></text>
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M185.8,252.2l-6-45.5c0,0-2.7-11.4,14.8-11.4c18.2,0,50.2,0,50.2,0
 		v56.8H185.8z"/>
 </g>
-<g id="Johnston_and_Murphy">
+<g id="johnston_and_murphy">
 	<rect x="244.8" y="195.4" fill="none" stroke="#939598" stroke-miterlimit="10" width="48" height="56.8"/>
 	<rect x="256.3" y="202.1" fill="none" width="20" height="74.1"/>
 	<text transform="matrix(0 1 -1 0 271.2867 202.1152)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Johnston &amp;</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Murphy</tspan></text>
@@ -35,88 +35,88 @@
 	<rect x="303.6" y="200.9" fill="none" width="20" height="74.1"/>
 	<text transform="matrix(0 1 -1 0 318.605 200.9501)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">bebe</text>
 </g>
-<g id="Mezlan_Shoes">
+<g id="mezlan_shoes">
 	<rect x="349" y="195.4" fill="none" stroke="#939598" stroke-miterlimit="10" width="49.5" height="56.8"/>
 	<rect x="361.3" y="202.9" fill="none" width="20" height="74.1"/>
 	<text transform="matrix(0 1 -1 0 376.2867 202.9062)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Mezlan</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Shoes</tspan></text>
 </g>
-<g id="Michael_Kors">
+<g id="michael_kors">
 	<rect x="398.5" y="195.4" fill="none" stroke="#939598" stroke-miterlimit="10" width="71.5" height="28.4"/>
 	<rect x="415" y="206.6" fill="none" width="63.7" height="32.3"/>
 	<text transform="matrix(1 0 0 1 415.0194 211.6416)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Michael Kors</text>
 </g>
-<g id="Origins">
+<g id="origins">
 	<rect x="398.5" y="223.8" fill="none" stroke="#939598" stroke-miterlimit="10" width="71.5" height="28.4"/>
 	<rect x="432.8" y="233.9" fill="none" width="63.7" height="32.3"/>
 	<text transform="matrix(1 0 0 1 432.7694 238.8922)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Origins</text>
 </g>
-<g id="Teavana">
+<g id="teavana">
 	<rect x="415" y="252.2" fill="none" stroke="#939598" stroke-miterlimit="10" width="55" height="19.5"/>
 	<rect x="430.5" y="259.8" fill="none" width="63.7" height="14.7"/>
 	<text transform="matrix(1 0 0 1 430.5194 264.8378)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Teavana</text>
 </g>
-<g id="Papyrus">
+<g id="papyrus">
 	<rect x="415" y="271.8" fill="none" stroke="#939598" stroke-miterlimit="10" width="55" height="37.5"/>
 	<rect x="432" y="287.3" fill="none" width="63.7" height="14.7"/>
 	<text transform="matrix(1 0 0 1 432.0194 292.3378)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Papyrus</text>
 </g>
-<g id="Aveda">
+<g id="aveda">
 	<rect x="415" y="309.3" fill="none" stroke="#939598" stroke-miterlimit="10" width="55" height="48.8"/>
 	<rect x="438.2" y="329.3" fill="none" width="63.7" height="14.7"/>
 	<text transform="matrix(1 0 0 1 438.1861 334.2962)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Aveda</text>
 </g>
-<g id="Armani_Exchange">
+<g id="armani_exchange">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="534,403 506.8,403.1 506.8,416.6 470.7,416.6 470.7,411.6 
 		415,412 415,358 534,358 	"/>
 	<rect x="457.7" y="374.9" fill="none" width="63.7" height="14.7"/>
 	<text transform="matrix(1 0 0 1 457.6861 379.9434)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Armani</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Exchange</tspan></text>
 </g>
-<g id="Tumi">
+<g id="tumi">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="555.8,382.3 555.8,392 560.6,392.1 560.7,408.2 566,408.2 
 		566,415.6 566,416.6 506.8,416.6 506.8,403.1 534,403 534,358 555.9,358 	"/>
 	<rect x="532.8" y="363.2" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 542.4376 363.1731)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Tumi</text>
 </g>
-<g id="Fire_and_Ice">
+<g id="fire_and_ice">
 	<rect x="555.9" y="358" fill="none" stroke="#939598" stroke-miterlimit="10" width="32.5" height="24.3"/>
 	<rect x="564.5" y="363.2" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 574.1876 363.1731)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Fire</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">&amp; Ice</tspan></text>
 </g>
-<g id="LOccitane">
+<g id="loccitane">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="588.4,358 638.5,358 638.3,404.8 665,404.8 665,416.6 
 		607.1,416.6 607.1,415.4 607.1,408.8 612.2,408.8 612.2,387.3 594.1,387.3 594.1,382.3 588.4,382.3 	"/>
 	<rect x="596.9" y="366.7" fill="none" width="63.7" height="14.7"/>
 	<text transform="matrix(1 0 0 1 596.8527 371.6934)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">L’Occitane</text>
 </g>
-<g id="Icing_by_Claires">
+<g id="icing_by_claires">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="680.9,358 638.5,358 638.3,404.8 665,404.8 665,416.6 
 		680.9,416.6 680.9,360.7 	"/>
 	<rect x="652.7" y="363.2" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 662.3555 363.1729)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Icing by</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Claire’s</tspan></text>
 </g>
-<g id="MAC_Cosmetics">
+<g id="mac_cosmetics">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="680.9,416.6 702.5,416.6 702.5,412 719.2,412 719.2,358 
 		680.9,358 	"/>
 	<rect x="693.6" y="363.2" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 703.2696 363.1729)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">M-A-C</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Cosmetics</tspan></text>
 </g>
-<g id="The_Limited">
+<g id="the_limited">
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M787.9,450.7h79V446h23.8l19.6-75.9l-1-1c-6-7.9-13.9-7.6-13.9-7.6
 		H890V358H787.9L787.9,450.7z"/>
 	<rect x="789.4" y="364.3" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 799.0215 364.3307)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">The Limited</text>
 </g>
-<g id="Cache">
+<g id="cache">
 	<rect x="753.5" y="358" fill="none" stroke="#939598" stroke-miterlimit="10" width="34.3" height="92.7"/>
 	<rect x="757.9" y="364.4" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 767.5215 364.3924)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Caché</text>
 </g>
-<g id="Gymboree">
+<g id="gymboree">
 	<rect x="719.2" y="358" fill="none" stroke="#939598" stroke-miterlimit="10" width="34.3" height="54"/>
 	<rect x="723.3" y="363.2" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 732.9356 363.1729)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Gymboree</text>
 </g>
-<g id="Macys">
+<g id="macys">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="931.5,473.9 886.6,461.6 951.6,209.9 952.1,207.8 
 		998.2,219.9 	"/>
 	
@@ -124,18 +124,18 @@
 	
 		<text transform="matrix(-0.2551 0.9669 -0.9669 -0.2551 945.7475 306.8051)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="18">MACY’S</text>
 </g>
-<g id="Abercrombie_and_Fitch">
+<g id="abercrombie_and_fitch">
 	<polyline fill="none" stroke="#939598" stroke-miterlimit="10" points="927.1,304.7 833.5,304.7 833.5,204.6 944.9,204.6 
 		944.9,209.3 951.6,209.3 927.1,304.7 	"/>
 	<rect x="861.6" y="231.9" fill="none" width="14.7" height="63.7"/>
 	<text transform="matrix(0 1 -1 0 871.2715 231.921)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Abercrombie &amp; Fitch</text>
 </g>
-<g id="Francescas_Collections">
+<g id="francescas_collections">
 	<rect x="770.5" y="204.6" fill="none" stroke="#939598" stroke-miterlimit="10" width="63" height="100.1"/>
 	<rect x="789.5" y="223.5" fill="none" width="14.7" height="90.2"/>
 	<text transform="matrix(0 1 -1 0 799.1885 223.5317)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Francesca’s Collections</text>
 </g>
-<g id="Free_People">
+<g id="free_people">
 	<rect x="733.2" y="204.6" fill="none" stroke="#939598" stroke-miterlimit="10" width="37.3" height="100.1"/>
 	<rect x="738.9" y="256.5" fill="none" width="14.7" height="90.2"/>
 	<text transform="matrix(0 1 -1 0 748.5225 256.5044)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Free People</text>
@@ -146,67 +146,67 @@
 	<rect x="704.9" y="217" fill="none" width="14.7" height="90.2"/>
 	<text transform="matrix(0 1 -1 0 714.5225 217.0044)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">kate spade new york</text>
 </g>
-<g id="BCBGMAXAZRIA">
+<g id="bcbgmaxazria">
 	<rect x="673.9" y="198.7" fill="none" width="14.7" height="90.2"/>
 	<text transform="matrix(0 1 -1 0 683.6026 198.6606)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">BCBGMAXAZRIA</text>
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M700.9,266.2c-10.4,1.1-22.5,0.5-31.1,0.1v-107l9.6-9.6l21.5,21.5
 		V266.2z"/>
 </g>
-<g id="Kenneth_Cole">
+<g id="kenneth_cole">
 	<rect x="646.4" y="209.5" fill="none" width="14.7" height="90.2"/>
 	<text transform="matrix(0 1 -1 0 656.1026 209.5336)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Kenneth Cole</text>
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M644.5,185.9v77.6c0,0,18,3.4,25.4,2.8v-107L644.5,185.9z"/>
 </g>
-<g id="Modern_Nails">
+<g id="modern_nails">
 	<rect x="624.5" y="230.9" fill="none" width="14.7" height="90.2"/>
 	<text transform="matrix(0 1 -1 0 634.1885 230.9231)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Modern</tspan><tspan x="0" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Nails</tspan></text>
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M644.5,263.5c-26.1-6-38-17.2-38-17.2l37.4-37.3L644.5,263.5z"/>
 </g>
-<g id="Bare_Minerals">
+<g id="bare_minerals">
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M664.2,135.6l-78.6-78.7L548.9,130c0,0-2.7,51.6,19,79l38.6-37.8
 		h21.1L664.2,135.6z"/>
 	<rect x="573.1" y="117.5" fill="none" width="14.7" height="90.2"/>
 	<text transform="matrix(0 1 -1 0 582.7686 117.4768)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Bare Minerals</text>
 </g>
-<g id="Apple">
+<g id="apple">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="548.9,130 494.9,130 494.9,56.5 585.6,56.8 	"/>
 	<rect x="512.1" y="99.6" fill="none" width="14.7" height="38.4"/>
 	<text transform="matrix(0 1 -1 0 521.7286 99.5882)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Apple</text>
 </g>
-<g id="Coach">
+<g id="coach">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="470.1,135.2 442.9,135.2 442.9,56.5 494.9,56.5 494.9,130 
 		470.7,130.2 	"/>
 	<rect x="456.7" y="99.3" fill="none" width="14.7" height="38.4"/>
 	<text transform="matrix(0 1 -1 0 466.3545 99.2685)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Coach</text>
 </g>
-<g id="Hugo_Boss">
+<g id="hugo_boss">
 	<rect x="405.5" y="56.8" fill="none" stroke="#939598" stroke-miterlimit="10" width="30.6" height="86.1"/>
 	<rect x="411.2" y="96.8" fill="none" width="14.7" height="38.4"/>
 	<text transform="matrix(0 1 -1 0 420.8545 96.8005)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Hugo Boss</text>
 </g>
-<g id="Cole_Haan">
+<g id="cole_haan">
 	<rect x="371.5" y="56.5" fill="none" stroke="#939598" stroke-miterlimit="10" width="34" height="86.1"/>
 	<rect x="376.9" y="99.3" fill="none" width="14.7" height="38.4"/>
 	<text transform="matrix(0 1 -1 0 386.5342 99.2888)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Cole Haan</text>
 </g>
-<g id="Oakley">
+<g id="oakley">
 	<rect x="344.2" y="56.5" fill="none" stroke="#939598" stroke-miterlimit="10" width="27.3" height="86.1"/>
 	<rect x="346.4" y="110.8" fill="none" width="14.7" height="38.4"/>
 	<text transform="matrix(0 1 -1 0 356.0215 110.832)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Oakley</text>
 </g>
-<g id="Sperry">
+<g id="sperry">
 	<polygon fill="none" stroke="#939598" stroke-miterlimit="10" points="344.2,142.6 302.2,142.6 302.2,66.9 312.9,66.9 312.8,56.8 
 		344.2,56.5 	"/>
 	<rect x="314.6" y="110.5" fill="none" width="14.7" height="38.4"/>
 	<text transform="matrix(0 1 -1 0 324.2715 110.5185)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Sperry</text>
 </g>
-<g id="American_Eagle_Outfitters">
+<g id="american_eagle_outfitters">
 	<rect x="231.8" y="62.8" fill="none" width="14.7" height="72.4"/>
 	<text transform="matrix(0 1 -1 0 241.4351 88.2373)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">American Eagle </tspan><tspan x="19.5" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Outfitters</tspan></text>
 	<polyline fill="none" stroke="#939598" stroke-miterlimit="10" points="239.1,142.6 274.1,142.6 274.1,67.3 263.1,67 263.1,66 
 		263.1,56.5 205.5,56.5 205.5,142.6 239.1,142.6 	"/>
 </g>
-<g id="Outline">
+<g id="outline">
 	<rect x="817.2" y="316" fill="#414042" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="77.3" height="31"/>
 	<rect x="715.5" y="316" fill="#414042" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="84.7" height="31"/>
 	<rect x="207.9" y="154.6" fill="#414042" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="98" height="30.3"/>
@@ -220,18 +220,18 @@
 	<path fill="#414042" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M546.4,338.4h-39.5v-19.2v-4.3h-5.8v4.3h-11.1
 		l-0.1-36.2h5.9v-22.8h-12.8V150.1h48.7c17.2,143.3,150.6,132.5,150.6,132.5v59.8H566.5v-9.6h-20L546.4,338.4z"/>
 </g>
-<g id="A_Pea_in_the_Pod">
+<g id="a_pea_in_the_pod">
 	<rect x="69.5" y="56.5" fill="none" width="43.7" height="74.1"/>
 	<text transform="matrix(0 1 -1 0 108.1895 79.9719)" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">A Pea in the Pod</text>
 	<rect x="83.6" y="56.5" fill="none" stroke="#939598" stroke-miterlimit="10" width="48.6" height="84.4"/>
 </g>
-<g id="Old_Virginia_Tobacco_Company">
+<g id="old_virginia_tobacco_company">
 	<rect x="132.2" y="47.9" fill="none" width="43.7" height="74.1"/>
 	<text transform="matrix(0 1 -1 0 170.9395 88.0361)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Old Virginia</tspan><tspan x="7.4" y="8.4" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Tobacco</tspan><tspan x="4.7" y="16.8" fill="#FFFFFF" font-family="'HelveticaNeue-Light'" font-size="7">Company</tspan></text>
 	<path fill="none" stroke="#939598" stroke-miterlimit="10" d="M194.9,142.6c-6.7-7.1-14-15.2-32.3-15.2c-16.8,0-23.5,7-30.4,13.5
 		V56.5h73.3v86.1H194.9z"/>
 </g>
-<g id="Nordstrom">
+<g id="nordstrom">
 	<rect x="45.6" y="103.8" fill="none" stroke="#939598" stroke-miterlimit="10" width="38" height="148.4"/>
 	<rect x="83.6" y="252.2" fill="none" stroke="#939598" stroke-miterlimit="10" width="148" height="39.6"/>
 	<rect x="114" y="266.1" fill="none" width="96.8" height="37.1"/>
