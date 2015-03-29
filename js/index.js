@@ -24,6 +24,7 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 
 	$scope.results = [];
 	$scope.queryWords = [];
+	var oldResults = [];
 
 	$(document).on('keydown', function(ev) {
 	    if (ev.keyCode == 27) {
@@ -43,9 +44,10 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 		$scope.showPanel = false;
 		$scope.panelObject = null;
 
-        if ($scope.results.length > 0) {
-			unhighlight($scope.results);
-		}
+		_.each(oldResults, function(oldResult) {
+			highlight(oldResult, true);
+		});
+		angular.copy($scope.results, oldResults);
 
 		if (newVal) {
 			$scope.results = _.filter(PRODUCT_DATA, function(item) {
@@ -62,7 +64,7 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 			});
 
 			_.each($scope.results, function(result) {
-				highlight(result.name);
+				highlight(result);
 			});
 		} else {
 			$scope.results = []
@@ -73,27 +75,32 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 	    return function(item){
 	      return item[prop] >= val;
 	    }
-	}
+	};
 
-	function highlight(result) {
-		_.each($('#' + result).children(), function(child) {
-			child.style.fill = BG_HIGHLIGHT;
-		});
-
-		_.each($('#' + result + ' > text').children(), function(child) {
-			child.style.fill = TEXT_HIGHLIGHT;
-		});
-	}
-
-	function unhighlight(results) {
-		_.each(results, function(result) {
-			_.each($('#' + result.name).children(), function(child) {
-				child.style.fill = '';
+	function highlight(result, undo) {
+		try {
+			_.each($('#' + result.id).children(), function(child) {
+				if (undo) {
+					child.style.fill = '';
+				} else {
+					child.style.fill = BG_HIGHLIGHT;
+				}
 			});
+		} catch(e) {
 
-			_.each($('#' + result.name + ' > text').children(), function(child) {
-				child.style.fill = '';
+		}
+
+		try {
+			_.each($('#' + result.id + ' > text').children(), function(child) {
+				if (undo) {
+					child.style.fill = '';
+				} else {
+					child.style.fill = TEXT_HIGHLIGHT;
+				}
 			});
-		});
+		} catch (e) {
+
+		}
 	}
+
 }]);
