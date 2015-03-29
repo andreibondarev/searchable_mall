@@ -26,7 +26,11 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 	$scope.queryWords = [];
 
 	$(document).on('keydown', function(ev) {
-	    if (ev.keyCode == 27) {	$scope.query = ''; }
+	    if (ev.keyCode == 27) {
+	    	$scope.query = '';
+	    	$scope.showPanel = false;
+			$scope.panelObject = null;
+	    }
 	});
 
 
@@ -37,6 +41,7 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 
 	$scope.$watch('query', function(newVal, oldVal) {
 		$scope.showPanel = false;
+		$scope.panelObject = null;
 
         if ($scope.results.length > 0) {
 			unhighlight($scope.results);
