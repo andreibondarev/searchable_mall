@@ -36,8 +36,10 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 
 
     $scope.openDetails = function(item) {
-        $scope.panelObject = item;
-        $scope.showPanel = true;
+    	if (item.details && item.hours) {
+	        $scope.panelObject = item;
+	        $scope.showPanel = true;
+        }
     }
 
 	$scope.$watch('query', function(newVal, oldVal) {
