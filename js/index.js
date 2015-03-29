@@ -47,7 +47,6 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 		_.each(oldResults, function(oldResult) {
 			highlight(oldResult, true);
 		});
-		angular.copy($scope.results, oldResults);
 
 		if (newVal) {
 			$scope.results = _.filter(PRODUCT_DATA, function(item) {
@@ -62,6 +61,7 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 
 				return !!item.score;
 			});
+			angular.copy($scope.results, oldResults);
 
 			_.each($scope.results, function(result) {
 				highlight(result);
