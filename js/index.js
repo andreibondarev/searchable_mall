@@ -77,6 +77,11 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
 	$scope.results = [];
 	$scope.queryWords = [];
 
+	$(document).on('keydown', function(ev) {
+	    if (ev.keyCode == 27) {	$scope.query = ''; }
+	});
+
+
     $scope.openDetails = function(item) {
         $scope.panelObject = item;
         $scope.showPanel = true;

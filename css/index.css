@@ -108,7 +108,8 @@ body h1, body h2, body h3, body h4, body h5 {
 
 	border: 1px solid;
 	border-radius: 10px;
-	box-shadow: 5px 5px 5px #667;	
+	box-shadow: 5px 5px 5px #667;
+	overflow: hidden !important;
 }
 
 #details-panel .panel-heading {
