@@ -5,7 +5,6 @@ searchableMall.constant('TEXT_HIGHLIGHT', 'black');
 searchableMall.constant('PRODUCT_DATA', window.STORE_DATA);
 
 searchableMall.run(function() {
-
 });
 
 searchableMall.directive('autofocus', ['$interval', function($interval) {
@@ -42,8 +41,7 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
     }
   }
 
-  $scope.$watch('query', function(newVal, oldVal) {
-    var newVal = newVal.toLowerCase();
+  $scope.$watch('query', function(newVal, oldVal) {    
     $scope.showPanel = false;
     $scope.panelObject = null;
 
@@ -52,6 +50,8 @@ searchableMall.controller('SearchableController', ['$scope', 'PRODUCT_DATA', 'BG
     });
 
     if (newVal) {
+      var newVal = newVal.toLowerCase();
+
       $scope.results = _.filter(PRODUCT_DATA, function(item) {
         var keywords = item.keywords.concat(item.store.toLowerCase(), item.id);
         $scope.queryWords = newVal.split(' ');
